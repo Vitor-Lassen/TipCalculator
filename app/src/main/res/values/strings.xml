@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">TipCalculator</string>
-    <string name="enterAmount">Type bill amount</string>
+    <string name="app_name">Tip Calculator Fatec Carapicuiba Sabado</string>
+    <string name="enter_amount">Type bill amount</string>
     <string name="tip_percentage">15%</string>
     <string name="tip">Tip</string>
     <string name="total">Total</string>
